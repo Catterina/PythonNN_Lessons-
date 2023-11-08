@@ -27,3 +27,4 @@ print(var2)
 var2 = var1[5:0:-1]
 print(var2)
 
+
